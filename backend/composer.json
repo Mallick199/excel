@@ -1,0 +1,12 @@
+{
+    "name": "dell/excelfile",
+    "authors": [
+        {
+            "name": "skip"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^6.1",
+        "phpoffice/phpspreadsheet": "1.23"
+    }
+}
